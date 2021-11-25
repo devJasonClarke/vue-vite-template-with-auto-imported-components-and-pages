@@ -1,10 +1,10 @@
-# Vue 3 + Vite + Auto imports boilerplate
+# Vue 3 + Vite + Vuex + Vue Router + Auto Imports boilerplate
 
-This is a minimal boilerplate for Vue 3 and Vite. It comes with my favourite featues from Nuxt, auto imported components and auto generated routes, pre-configured. Just install and get to work. 🚀
+This is a minimal boilerplate for Vue 3 and Vite. It comes with Vuex and Vue Router along with my favourite featues from Nuxt, auto imported components and auto generated routes. Just install and get to work. 🚀
 
 ### Tools used for automations
 
-[Unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) For components
+[Unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) For components 
 [Vite Plugin Pages](https://github.com/hannoeru/vite-plugin-pages) For pages
 
 ## Build Setup
